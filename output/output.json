@@ -1,0 +1,184 @@
+[{"category":"General Knowledge","type":"multiple","difficulty":"medium","question":"What is the name of the very first video uploaded to YouTube?","correct_answer":"Me at the zoo","incorrect_answers":["tribute","carrie rides a truck","Her new puppy from great grandpa vern."]},{"category":"Science: Computers","type":"multiple","difficulty":"medium","question":"What was the first commerically available computer processor?","correct_answer":"Intel 4004","incorrect_answers":["Intel 486SX","TMS 1000","AMD AM386"]},{"category":"Science: Gadgets","type":"multiple","difficulty":"easy","question":"The term &quot;battery&quot; to describe an electrical storage device was coined by?","correct_answer":"Benjamin Franklin","incorrect_answers":["Nikola Tesla","Luigi Galvani"," Alessandro Volta"]}]
+[
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is on display in the Madame Tussaud&#039;s museum in London?",
+    "correct_answer": "Wax sculptures",
+    "incorrect_answers": [
+      "Designer clothing",
+      "Unreleased film reels",
+      "Vintage cars"
+    ]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What did the name of the Tor Anonymity Network orignially stand for?",
+    "correct_answer": "The Onion Router",
+    "incorrect_answers": [
+      "The Only Router",
+      "The Orange Router",
+      "The Ominous Router"
+    ]
+  },
+  {
+    "category": "Science: Gadgets",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of the following cellular device companies is NOT headquartered in Asia?",
+    "correct_answer": "Nokia",
+    "incorrect_answers": [
+      "LG Electronics",
+      "Samsung",
+      "HTC"
+    ]
+  }
+]
+[
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which one of these is not a typical European sword design?",
+    "correct_answer": "Scimitar",
+    "incorrect_answers": [
+      "Falchion",
+      "Ulfberht",
+      "Flamberge"
+    ]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Laserjet and inkjet printers are both examples of what type of printer?",
+    "correct_answer": "Non-impact printer",
+    "incorrect_answers": [
+      "Impact printer",
+      "Daisywheel printer",
+      "Dot matrix printer"
+    ]
+  },
+  {
+    "category": "Science: Gadgets",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Out of all of the NASA Space Shuttles, which 2 have been destroyed in disasters?",
+    "correct_answer": "Challenger and Columbia",
+    "incorrect_answers": [
+      "Enterprise and Atlantis",
+      "Discovery and Endeavour",
+      "None of the Above"
+    ]
+  }
+]
+[
+  {
+    "General_Knowledge": "https://opentdb.com/api.php?type=multiple&amount=1&category=9"
+  },
+  {
+    "Computers": "https://opentdb.com/api.php?type=multiple&amount=1&category=18"
+  },
+  {
+    "Gadgets": "https://opentdb.com/api.php?type=multiple&amount=1&category=30"
+  }
+]
+[
+  {
+    "General_Knowledge": "https://opentdb.com/api.php?type=multiple&amount=1&category=9"
+  },
+  {
+    "Computers": "https://opentdb.com/api.php?type=multiple&amount=1&category=18"
+  },
+  {
+    "Gadgets": "https://opentdb.com/api.php?type=multiple&amount=1&category=30"
+  }
+]
+[
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In ancient Greece, if your job were a &quot;hippeus&quot; which of these would you own?",
+    "correct_answer": "Horse",
+    "incorrect_answers": [
+      "Weave",
+      "Guitar",
+      "Boat"
+    ]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+    "correct_answer": "&lt;marquee&gt;&lt;/marquee&gt;",
+    "incorrect_answers": [
+      "&lt;scroll&gt;&lt;/scroll&gt;",
+      "&lt;move&gt;&lt;/move&gt;",
+      "&lt;slide&gt;&lt;/slide&gt;"
+    ]
+  },
+  {
+    "category": "Science: Gadgets",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the &quot;Mitsubishi Wakamaru&quot;?",
+    "correct_answer": "A robot",
+    "incorrect_answers": [
+      "A pickup truck",
+      "An motorcycle",
+      "A motorboat"
+    ]
+  }
+]
+[
+  {
+    "General_Knowledge": "https://opentdb.com/api.php?type=multiple&amount=1&category=9",
+    "data": {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the German word for &quot;spoon&quot;?",
+      "correct_answer": "L&ouml;ffel",
+      "incorrect_answers": [
+        "Gabel",
+        "Messer",
+        "Essst&auml;bchen"
+      ]
+    }
+  },
+  {
+    "Computers": "https://opentdb.com/api.php?type=multiple&amount=1&category=18",
+    "data": {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?",
+      "correct_answer": "Final",
+      "incorrect_answers": [
+        "Static",
+        "Private",
+        "Public"
+      ]
+    }
+  },
+  {
+    "Gadgets": "https://opentdb.com/api.php?type=multiple&amount=1&category=30",
+    "data": {
+      "category": "Science: Gadgets",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the most significant side venture the popular firearms company, Remington, has pursued?",
+      "correct_answer": "Typewriters",
+      "incorrect_answers": [
+        "Blenders",
+        "Ceiling Fans",
+        "Door Knobs"
+      ]
+    }
+  }
+]

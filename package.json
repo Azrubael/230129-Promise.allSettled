@@ -1,0 +1,19 @@
+{
+  "name": "9-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "node-fetch",
+    "async-await"
+  ],
+  "author": "Azrubael <i0638464000@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
